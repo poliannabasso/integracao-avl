@@ -5,9 +5,9 @@ Arquivos necessários:
 .mass -> definição de unidades e distribuição de massa
 .run -> parâmetros aerodinâmicos
 
-Como o avl é baseado no sistema Unix é possível carregar os arquivos e comandos através de uma extensão .run, caso não possua python no seu computador é possivel executar o aplicativo "avl.exe" e executar o arquivo .run digitando "script_avl.run" no terminal.
+Como o avl é baseado no sistema Unix é possível carregar os arquivos e comandos através de uma extensão .run, caso possua python em seu computador basta executar o arquivo AVL.py, caso não possua é possivel executar o aplicativo "avl.exe" e inserir os comandos manualmente no AVL para realizar testes.
 
-###Testando run cases direto no terminal do AVL###
+::: Testando run cases direto no terminal do AVL ::: [com avl.exe]
 
 load < path\arq.avl > -> carrega arquivo .avl no AVL 
 
