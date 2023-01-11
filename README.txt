@@ -30,3 +30,5 @@ t -> plota o plano de depressões [trefftz plane]
 enter -> volta um diretório 
 
 ST < nome_arq.txt > -> gera um arquivo com as variáveis de estabilidade
+
+# e ! -> comentários
