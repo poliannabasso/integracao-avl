@@ -1,0 +1,11 @@
+load supergee/supergee.avl
+mass supergee/supergee.mass
+case supergee/supergee.run
+oper
+x
+ST output_stability.txt
+x
+FT output_forces.txt
+
+
+quit
